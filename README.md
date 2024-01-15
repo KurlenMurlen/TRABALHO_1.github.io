@@ -1,0 +1,1 @@
+[PT-BR] Este é o primeiro trabalho desenvolvido juntando conceitos aprendidos durante o primeiro período cursando Ciência da Computação, bem rude, sem muitos detalhes, design não refinado.. até por que.. era o começo né..
